@@ -1,5 +1,5 @@
 - 👋Hi. I'm Shoaib ur Rehman
-- 👀 I’m interested in APP Development and AI
+-🔭 I’m currently improving my skills in low-level firmware development.
 - 🌱 I’m currently learning APP Development
 - 📫 How to reach me Instagram @rais.shoaib31
 
