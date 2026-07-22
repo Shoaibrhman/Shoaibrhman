@@ -1,10 +1,1 @@
-- 👋Hi. I'm Shoaib ur Rehman
--🔭 I’m currently improving my skills in low-level firmware development.
-- 🌱 I’m currently learning APP Development
-- Proficient in C++ (Object-Oriented Programming); Intermediate in Python
-- - 📫 How to reach me Instagram @rais.shoaib31
-
-<!---
-Shoaibrhman/Shoaibrhman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI/ML and robotics enthusiast working across Reinforcement Learning, Perception, and Embedded Systems. Currently an Internee at the National Center for Physics (NCP), focused on Reinforcement Learning and Perception in Robotics, and at The 1% AI Cognitive Fund, applying Python-based ML and data science (Pandas, NumPy, Matplotlib, scikit-learn) to real-world problems. On the hardware side, built a Fall Detection System using ESP32, Neo-6M GPS, and MPU-6050 sensors, including a custom single-layer PCB design. Passionate about bridging intelligent algorithms with embedded hardware to build practical, real-world systems.
